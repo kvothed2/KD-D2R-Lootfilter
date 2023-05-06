@@ -371,7 +371,7 @@
     "jaJP": "チェイン・メイル",
     "ptBR": "[fs]Cota de Malha",
     "ruRU": "[ms]кольчужный доспех",
-    "zhCN": "锁子甲"
+    "zhCN": "锁链甲"
   },
   {
     "id": 1944,
@@ -4371,7 +4371,7 @@
   {
     "id": 2182,
     "Key": "gpl",
-    "enUS": "ÿc6",
+    "enUS": "Strangling Gas Potion",
     "zhTW": "刺鼻毒氣藥水",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
@@ -4388,7 +4388,7 @@
   {
     "id": 2183,
     "Key": "opl",
-    "enUS": "ÿc6",
+    "enUS": "Fulminating Potion",
     "zhTW": "烈性藥水",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
@@ -4405,7 +4405,7 @@
   {
     "id": 2184,
     "Key": "gpm",
-    "enUS": "ÿc6",
+    "enUS": "Choking Gas Potion",
     "zhTW": "窒息毒氣藥水",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
@@ -4422,7 +4422,7 @@
   {
     "id": 2185,
     "Key": "opm",
-    "enUS": "ÿc6",
+    "enUS": "Exploding Potion",
     "zhTW": "爆炸藥水",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
@@ -4439,7 +4439,7 @@
   {
     "id": 2186,
     "Key": "gps",
-    "enUS": "ÿc6",
+    "enUS": "Rancid Gas Potion",
     "zhTW": "腐臭毒氣藥水",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
@@ -4456,7 +4456,7 @@
   {
     "id": 2187,
     "Key": "ops",
-    "enUS": "ÿc6",
+    "enUS": "Oil Potion",
     "zhTW": "火油藥水",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "ÿc3TP ÿc0scroll",
+    "enUS": "Scroll of Town Portal",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "ÿc1ID ÿc0scroll",
+    "enUS": "Scroll of Identify",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "ÿc0*ÿc0Stam",
+    "enUS": "Stamina Potion",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿc2*ÿc0Anti",
+    "enUS": "Antidote Potion",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "ÿc;35ÿc0R",
+    "enUS": "Rejuvenation Potion",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "ÿc;100ÿc0R",
+    "enUS": "Full Rejuvenation Potion",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿc9*ÿc0Thaw",
+    "enUS": "Thawing Potion",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4881,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "ÿc6",
+    "enUS": "Arrows",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "ÿc6",
+    "enUS": "Bolts",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -4932,7 +4932,7 @@
   {
     "id": 2221,
     "Key": "Key",
-    "enUS": "ÿc5Key",
+    "enUS": "Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -4949,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "ÿc5Key",
+    "enUS": "Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5153,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "ÿc0Amethyst ÿc@[ÿc;*ÿc@]",
+    "enUS": "Amethyst",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5170,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "ÿc0Flawless Amethyst ÿc@[ÿc;Oÿc@]",
+    "enUS": "Flawless Amethyst",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "ÿc;Perfect ÿc;Amethyst",
+    "enUS": "Perfect Amethyst",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5238,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "ÿc0Topaz ÿc@[ÿc9*ÿc@]",
+    "enUS": "Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5255,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "ÿc0Flawless Topaz ÿc@[ÿc9Oÿc@]",
+    "enUS": "Flawless Topaz",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "ÿc9Perfect ÿc9Topaz",
+    "enUS": "Perfect Topaz",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5321,26 +5321,9 @@
     "zhCN": "有瑕疵的蓝宝石"
   },
   {
-    "id": 2248,
-    "Key": "gsb",
-    "enUS": "ÿc0Sapphire ÿc@[ÿc3*ÿc@]",
-    "zhTW": "藍寶石",
-    "deDE": "Saphir",
-    "esES": "Zafiro",
-    "frFR": "Saphir",
-    "itIT": "Zaffiro",
-    "koKR": "사파이어",
-    "plPL": "Szafir",
-    "esMX": "[ms]Zafiro",
-    "jaJP": "サファイア",
-    "ptBR": "Safira",
-    "ruRU": "[ms]Сапфир",
-    "zhCN": "蓝宝石"
-  },
-  {
     "id": 2249,
     "Key": "glb",
-    "enUS": "ÿc0Flawless Sapphire ÿc@[ÿc3Oÿc@]",
+    "enUS": "Flawless Sapphire",
     "zhTW": "無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5357,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc3Perfect ÿc3Sapphire",
+    "enUS": "Perfect Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5405,27 +5388,10 @@
     "ruRU": "Мутный изумруд",
     "zhCN": "有瑕疵的绿宝石"
   },
-   {
-    "id": 2254,
-    "Key": "gsg",
-    "enUS": "ÿc0Emerald ÿc@[ÿc2*ÿc@]",
-    "zhTW": "綠寶石",
-    "deDE": "Smaragd",
-    "esES": "Esmeralda",
-    "frFR": "Émeraude",
-    "itIT": "Smeraldo",
-    "koKR": "에메랄드",
-    "plPL": "Szmaragd",
-    "esMX": "[fs]Esmeralda",
-    "jaJP": "エメラルド",
-    "ptBR": "Esmeralda",
-    "ruRU": "[ms]Изумруд",
-    "zhCN": "绿宝石"
-  },
   {
     "id": 2253,
     "Key": "glg",
-    "enUS": "ÿc0Flawless Emerald ÿc@[ÿc2Oÿc@]",
+    "enUS": "Flawless Emerald",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5442,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "ÿc2Perfect ÿc2Emerald",
+    "enUS": "Perfect Emerald",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5491,26 +5457,9 @@
     "zhCN": "有瑕疵的红宝石"
   },
   {
-    "id": 2258,
-    "Key": "gsr",
-    "enUS": "ÿc0Ruby ÿc@[ÿc1*ÿc@]",
-    "zhTW": "紅寶石",
-    "deDE": "Rubin",
-    "esES": "Rubí",
-    "frFR": "Rubis",
-    "itIT": "Rubino",
-    "koKR": "루비",
-    "plPL": "Rubin",
-    "esMX": "[ms]Rubí",
-    "jaJP": "ルビー",
-    "ptBR": "Rubi",
-    "ruRU": "[ms]Рубин",
-    "zhCN": "红宝石"
-  },
-  {
     "id": 2259,
     "Key": "glr",
-    "enUS": "ÿc0Flawless Ruby ÿc@[ÿc1Oÿc@]",
+    "enUS": "Flawless Ruby",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5527,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc1Perfect ÿc1Ruby",
+    "enUS": "Perfect Ruby",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5576,26 +5525,9 @@
     "zhCN": "有瑕疵的钻石"
   },
   {
-    "id": 2263,
-    "Key": "gsw",
-    "enUS": "ÿc0Diamond ÿc@[ÿc0*ÿc@]",
-    "zhTW": "鑽石",
-    "deDE": "Diamant",
-    "esES": "Diamante",
-    "frFR": "Diamant",
-    "itIT": "Diamante",
-    "koKR": "다이아몬드",
-    "plPL": "Diament",
-    "esMX": "[ms]Diamante",
-    "jaJP": "ダイアモンド",
-    "ptBR": "Diamante",
-    "ruRU": "[ms]Алмаз",
-    "zhCN": "钻石"
-  },
-  {
     "id": 2264,
     "Key": "glw",
-    "enUS": "ÿc0Flawless ÿc0Diamond ÿc@[ÿc0Oÿc@]",
+    "enUS": "Flawless Diamond",
     "zhTW": "無瑕鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5612,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "ÿc0Perfect ÿc0Diamond",
+    "enUS": "Perfect Diamond",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5629,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿc11ÿc0HP",
+    "enUS": "Minor Healing Potion",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5646,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿc12ÿc0HP",
+    "enUS": "Light Healing Potion",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5663,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿc13ÿc0HP",
+    "enUS": "Healing Potion",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5680,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿc14ÿc0HP",
+    "enUS": "Greater Healing Potion",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5697,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿc15ÿc0HP",
+    "enUS": "Super Healing Potion",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5714,7 +5646,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿc31ÿc0MP",
+    "enUS": "Minor Mana Potion",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5731,7 +5663,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿc32ÿc0MP",
+    "enUS": "Light Mana Potion",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5748,7 +5680,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿc33ÿc0MP",
+    "enUS": "Mana Potion",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5765,7 +5697,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿc34ÿc0MP",
+    "enUS": "Greater Mana Potion",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
@@ -5782,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "ÿc35ÿc0MP",
+    "enUS": "Super Mana Potion",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
@@ -5833,7 +5765,7 @@
   {
     "id": 2279,
     "Key": "sku",
-    "enUS": "ÿc0Skull ÿc@[ÿc5*ÿc@]",
+    "enUS": "Skull",
     "zhTW": "骷髏石",
     "deDE": "Schädel",
     "esES": "Cráneo",
@@ -5850,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "ÿc0Flawless ÿc0Skull ÿc@[ÿc5Oÿc@]",
+    "enUS": "Flawless Skull",
     "zhTW": "無瑕骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5867,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "ÿc0Perfect ÿc0Skull",
+    "enUS": "Perfect Skull",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -8310,7 +8242,7 @@
     "jaJP": "ホーバーク",
     "ptBR": "Cota de Malha",
     "ruRU": "Хауберк",
-    "zhCN": "锁甲"
+    "zhCN": "半身甲"
   },
   {
     "id": 2540,
@@ -8497,7 +8429,7 @@
     "jaJP": "ダイアデム",
     "ptBR": "Argola",
     "ruRU": "[fs]диадема",
-    "zhCN": "冠冕"
+    "zhCN": "权冠"
   },
   {
     "id": 2551,
@@ -11608,7 +11540,7 @@
     "jaJP": "ミラブレガのダイアデム",
     "ptBR": "Diadema de Milabrega",
     "ruRU": "Диадема Милабреги",
-    "zhCN": "米拉伯佳的冠冕"
+    "zhCN": "米拉伯佳的权冠"
   },
   {
     "id": 10145,
@@ -11999,7 +11931,7 @@
     "jaJP": "狂戦士のホーバーク",
     "ptBR": "Cota de Malha do Berserker",
     "ruRU": "Хауберк берсерка",
-    "zhCN": "狂战士的锁甲"
+    "zhCN": "狂战士的半身甲"
   },
   {
     "id": 10168,
@@ -12327,7 +12259,7 @@
   {
     "id": 11010,
     "Key": "7wa",
-    "enUS": "Berserker Axe ÿcU0",
+    "enUS": "Berserker Axe",
     "zhTW": "狂戰斧",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
@@ -14520,7 +14452,7 @@
   {
     "id": 20296,
     "Key": "am5",
-    "enUS": "Maiden Javelin ÿcU0",
+    "enUS": "Maiden Javelin",
     "zhTW": "女戰標槍",
     "deDE": "[ms]Jungfernwurfspieß",
     "esES": "[fs]Jabalina doncella",
@@ -14690,7 +14622,7 @@
   {
     "id": 20306,
     "Key": "ama",
-    "enUS": "Ceremonial Javelin ÿcU0",
+    "enUS": "Ceremonial Javelin",
     "zhTW": "儀禮標槍",
     "deDE": "[ms]Zeremonialwurfspieß",
     "esES": "[fs]Jabalina ceremonial",
@@ -14792,7 +14724,7 @@
   {
     "id": 20312,
     "Key": "amb",
-    "enUS": "Matriarchal Bow ÿcU0",
+    "enUS": "Matriarchal Bow",
     "zhTW": "女傑之弓",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
@@ -14809,7 +14741,7 @@
   {
     "id": 20313,
     "Key": "amc",
-    "enUS": "Grand Matron Bow ÿcU0",
+    "enUS": "Grand Matron Bow",
     "zhTW": "主母之弓",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
@@ -14860,7 +14792,7 @@
   {
     "id": 20316,
     "Key": "amf",
-    "enUS": "Matriarchal Javelin ÿcU0",
+    "enUS": "Matriarchal Javelin",
     "zhTW": "女傑標槍",
     "deDE": "[ms]Matriarchenwurfspieß",
     "esES": "[fs]Jabalina matriarcal",
@@ -15535,7 +15467,7 @@
     "jaJP": "グレート・ホーバーク",
     "ptBR": "[fs]Grande Cota de Malha",
     "ruRU": "[ms]тяжелый панцирь",
-    "zhCN": "大链甲衫"
+    "zhCN": "大半身甲"
   },
   {
     "id": 20356,
@@ -16237,7 +16169,7 @@
   {
     "id": 20397,
     "Key": "pa6",
-    "enUS": "Akaran Targe ÿcU0",
+    "enUS": "Akaran Targe",
     "zhTW": "阿卡拉圓盾",
     "deDE": "Akarantarge",
     "esES": "[fs]Adarga de Akaran",
@@ -16254,7 +16186,7 @@
   {
     "id": 20398,
     "Key": "pa7",
-    "enUS": "Akaran Rondache ÿcU0",
+    "enUS": "Akaran Rondache",
     "zhTW": "阿卡拉輕圓盾",
     "deDE": "[fs]Akaranrondache",
     "esES": "[fs]Rodela de Akaran",
@@ -16305,7 +16237,7 @@
   {
     "id": 20401,
     "Key": "paa",
-    "enUS": "Royal Shield ÿcU0",
+    "enUS": "Royal Shield",
     "zhTW": "皇家盾",
     "deDE": "[ms]Königlicher Schild",
     "esES": "[ms]Escudo real",
@@ -16577,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": "Sacred Targe ÿcU0",
+    "enUS": "Sacred Targe",
     "zhTW": "神聖小盾",
     "deDE": "[fs]Heilige Targe",
     "esES": "[fs]Adarga sacra",
@@ -16594,7 +16526,7 @@
   {
     "id": 20418,
     "Key": "pac",
-    "enUS": "Sacred Rondache ÿcU0",
+    "enUS": "Sacred Rondache",
     "zhTW": "神聖輕圓盾",
     "deDE": "[fs]Heilige Rondache",
     "esES": "[fs]Rodela sacra",
@@ -16628,7 +16560,7 @@
   {
     "id": 20420,
     "Key": "paf",
-    "enUS": "Vortex Shield ÿcU0",
+    "enUS": "Vortex Shield",
     "zhTW": "渦旋盾",
     "deDE": "[ms]Wirbelschild",
     "esES": "[ms]Escudo vórtice",
@@ -16730,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": ">>> Jewel <<<",
+    "enUS": "Jewel",
     "zhTW": "珠寶",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
@@ -16764,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "\n Small Charm \n",
+    "enUS": "Small Charm",
     "zhTW": "小型咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -16798,7 +16730,7 @@
   {
     "id": 20437,
     "Key": "cm3",
-    "enUS": "\n Grand Charm \n",
+    "enUS": "Grand Charm",
     "zhTW": "特大咒符",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
